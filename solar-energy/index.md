@@ -1,5 +1,5 @@
 ---
-title: 7–67 Солнечная энергетика
+title: Солнечная энергетика
 nav_order: 3
 has_children: true
 ---
