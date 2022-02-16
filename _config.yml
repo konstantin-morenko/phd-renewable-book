@@ -1,0 +1,8 @@
+remote_theme: konstantin-morenko/just-the-docs
+
+title: Возобновляемая энергетика
+description: Курс лекций по дисциплине Энергоустановки на основе возобновляемых видов энергии от Константина Моренко
+
+aux_links:
+  "Константин Моренко":
+    - "https://konstantin-morenko.ru"
