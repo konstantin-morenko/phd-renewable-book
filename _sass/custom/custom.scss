@@ -1,0 +1,9 @@
+.main-content {
+  ol {
+    > li {
+      &::before {
+        left: -2.4em;		// Fix for three-digit numbers in question list
+      }
+    }
+  }
+}
